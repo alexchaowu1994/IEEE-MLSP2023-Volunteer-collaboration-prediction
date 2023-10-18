@@ -1,3 +1,17 @@
+# Using Adamic-Adar Index Algorithm to Predict Volunteer Collaboration: Less is More
+This repository is the code of our work entitled "Using Adamic-Adar Index Algorithm to Predict Volunteer Collaboration: Less is More".
+
+bibtex
+
+@article{wu2023using,
+  title={Using Adamic-Adar Index Algorithm to Predict Volunteer Collaboration: Less is More},
+  author={Wu, Chao and Chen, Peng and Yin, Baiqiao and Lin, Zijuan and Jiang, Chen and Yu, Di and Zou, Changhong and Lui, Chunwang},
+  journal={arXiv preprint arXiv:2308.13176},
+  year={2023}
+}
+
+
+# The related model GCN-GAN is as below:
 # GCN-GAN
 
 This repository provide a pytorch implemention for the GCN-GAN model proposed in "A Non-linear Temporal Link Prediction Model for Weighted Dynamic Networks" INFOCOM 2019, [[pdf]][1].

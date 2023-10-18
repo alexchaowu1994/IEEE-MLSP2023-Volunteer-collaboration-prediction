@@ -1,2 +1,28 @@
-# IEEE-MLSP2023-Volunteer-collaboration-prediction
-This is the repo for depositing the code from our work "Using Adamic-Adar Index Algorithm to Predict Volunteer Collaboration: Less is More"
+# GCN-GAN
+
+This repository provide a pytorch implemention for the GCN-GAN model proposed in "A Non-linear Temporal Link Prediction Model for Weighted Dynamic Networks" INFOCOM 2019, [[pdf]][1].
+
+## Quick Start
+
+Modify hyper-parameters in file ```config.yml```.
+
+### Preprocess data
+data use colab_test.csv
+
+```
+python preprocess2.py
+```
+
+### Train
+
+```
+python train.py
+```
+
+### Test
+
+```
+python test.py
+```
+
+[1]: https://arxiv.org/pdf/1901.09165.pdf

@@ -10,6 +10,8 @@ bibtex
   year={2023}
 }
 
+# Data
+The involved data can be found at https://www.kaggle.com/competitions/MLSP2023-volunteers-02/data
 
 # The related model GCN-GAN is as below:
 # GCN-GAN
